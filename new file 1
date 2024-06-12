@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+  <script>
+
+      function new()
+        {
+          console.log("hey");
+        }    
+  </script>
+</body>
+<html>
